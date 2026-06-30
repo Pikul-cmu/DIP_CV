@@ -5,7 +5,7 @@
 
 ---
 
-## 📖 Course Description
+## Course Description
 
 This course introduces the fundamental concepts and practical techniques of **Digital Image Processing (DIP)** and **Computer Vision (CV)**. Students learn how digital images are acquired, processed, analyzed, and interpreted using both classical image processing algorithms and modern deep learning approaches.
 
@@ -13,7 +13,7 @@ The course emphasizes hands-on implementation using **Python**, **OpenCV**, and 
 
 ---
 
-## 🎯 Course Learning Outcomes (CLOs)
+## Course Learning Outcomes (CLOs)
 
 After completing this course, students will be able to:
 
@@ -23,7 +23,7 @@ After completing this course, students will be able to:
 
 ---
 
-## 📚 Course Topics
+## Course Topics
 
 ### Part I — Digital Image Processing
 
